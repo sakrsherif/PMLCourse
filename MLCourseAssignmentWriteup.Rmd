@@ -34,7 +34,7 @@ This analysis allows us to note two main points :
 To manage the first issue we need to reimport data ignoring "#DIV/0!" values :
 
 ```{r}
-data <- read.csv("/projects/Coursera-PracticalMachineLearning/data//pml-training.csv", na.strings=c("#DIV/0!") )
+data <- read.csv("pml-training.csv", na.strings=c("#DIV/0!") )
 ```
 
 And force the cast to numeric values for the specified columns (i.e.: 8 to end) :
