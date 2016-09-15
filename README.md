@@ -1,4 +1,4 @@
-jhi-practical-machine-learning
+Practical Machine Learning Course Project
 ==============================
 
-My project for the Johns Hopkins Practical Machine Learning course in the Data Science specialization 
+The project for the Johns Hopkins Practical Machine Learning course in the Data Science specialization 
